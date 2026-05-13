@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="profile/AxionLogo_V2.png" alt="AxionCode Logo" width="500"/>
+  <img src="AxionLogo_V2.png" alt="AxionCode Logo" width="500"/>
 </p>
 
 ---
