@@ -5,9 +5,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile/logo-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="profile/logo-light.png">
-    <img alt="AxionCode Logo" src="profile/logo-light.png" width="500">
+    <source media="(prefers-color-scheme: dark)" srcset="logo-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="logo-light.png">
+    <img alt="AxionCode Logo" src="logo-light.png" width="500">
   </picture>
 </p>
 
