@@ -3,13 +3,13 @@
   <a href="#espanol">🇪🇸 Español</a>
 </p>
 
-<p align="center">
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="logo-dark.png">
     <source media="(prefers-color-scheme: light)" srcset="logo-light.png">
-    <img alt="AxionCode Logo" src="logo-light.png" width="250">
+    <img alt="AxionCode Logo" src="logo-light.png" width="350">
   </picture>
-</p>
+</div>
 
 ---
 
